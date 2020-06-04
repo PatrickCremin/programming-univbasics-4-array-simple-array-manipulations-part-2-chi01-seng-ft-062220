@@ -12,4 +12,4 @@ end
 def using_uniq(arr1)
   arr1.uniq
 end
-  
+
