@@ -10,6 +10,6 @@ def using_insert(arr1, element)
 end
 
 def using_uniq(arr1)
-  arr1.usiq
+  arr1.uniq
 end
   
