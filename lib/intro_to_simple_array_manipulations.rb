@@ -24,4 +24,8 @@ def using_delete(arr, string)
 end
 
 
-def using_delete_at(arr, )
+def using_delete_at (arr3, i)
+  arr3 = 
+  i = 2
+  newarr = arr.delete_at(i)
+end
