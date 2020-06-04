@@ -18,3 +18,7 @@ a = ["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"]
 def using_flatten(c)
   c.flatten
 end
+
+def using_delete(arr, string)
+  arr.delete(string)
+end
