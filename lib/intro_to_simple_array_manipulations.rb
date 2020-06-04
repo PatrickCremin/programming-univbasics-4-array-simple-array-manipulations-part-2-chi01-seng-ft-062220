@@ -27,5 +27,5 @@ end
 def using_delete_at (arr3, i)
   arr3 = ["Johnny 5", "R2D2", "Robocop"]
   i = 2
-  newarr = arr.delete_at(i)
+  newarr = arr3.delete_at(i)
 end
