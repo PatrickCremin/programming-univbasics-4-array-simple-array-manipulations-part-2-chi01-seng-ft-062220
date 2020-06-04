@@ -13,3 +13,7 @@ def using_uniq(arr1)
   arr1.uniq
 end
 
+a = ["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"]
+
+def using_flatten(c)
+  
